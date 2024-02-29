@@ -1,0 +1,29 @@
+Temat: Informatyczne systemy komputerowe
+
+System informatyczny- to powiązane ze sobą elementy, dzięki którym jest możliwe przetwarzanie danych przy użyciu techniki komputerowej. 
+
+Na system informatyczny składają się
+-sprzęt komputerowy
+-oprogramowanie
+-ludzie
+
+Na system informatyczny składa się m.in.oprogramowanie wspomagające funkcjonowanie przedsiębiorstw i instytucji.
+Przykładami takich systemów są:
+-CRM (customer relationship management) zażądzanie relacjami z klientem
+-ERP (enterprise resource planning) planowanie zasobów przedsiębiorstwa
+-MRP (material requirements planning) planowanie zapotrzebowania materiałowego
+-SCM (supply chain  management) - zarządzanie łańcuchem dostaw 
+
+System komputerowy to wspułdziałanie systemu informatycznego czyli sprzętu komputerowego i oprogramowania. w pełni zautomatyzowany system komputerowy działa bez udziału człowiekia. 
+
+System komputerowy składa się z nastęoujących warstw 
+-sprzęt
+-programy narzędziowe 
+-programy uzytkowe
+-system operacyjny 
+-użytkownicy
+
+Sprzęt - jest to procesor, pamięć operacyjna i masowa, urządzenia wejścia wyjścia 
+system operacyjny odpowiada za zarządzanie systemem komputerowym za pomocą progrmaów użytkowych. Tworzy środowisko do  uruchamianaia i kontroli zadań uzytkownika
+Oprogramowanie narzędziowe- odpowiada za zarządzanie zasobami sprzętowymi poprzez interfejsy użytkowe do zarządzania pamięciąkomoutera , obróbki plików, diagnozowania i konfigurowania komputera
+-oprogramowania użytkowe- są to progrmay mające zastosowanie jako konktretne oprogramowanie: edytory arkusze kalkulacyjne bazy danych
