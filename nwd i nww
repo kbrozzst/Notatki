@@ -1,0 +1,53 @@
+Najwięksyzy wsplny dzielnik metoda nieoptymalna
+
+
+#include <iostream>
+
+using namespace std;
+
+int a,b,c,d;
+
+int main()
+{
+    cout << "wprowadź liczbę pierwszą ";
+    cin  >> a;
+    c=a;
+    cout << "wprodwadź drugą liczbę ";
+    cin >> b;
+    d=b;
+    while(a != b)
+        if(a > b) a = a - b;
+        else b = b - a;
+        cout << a <<"jest największym wspólnym dzielnikiem liczb "<<c<<" oraz "<<d <<endl;
+        return 0;
+}
+
+
+Metoda optymalna 
+
+
+#include <iostream>
+
+using namespace std;
+
+int a,b,c,d,reszta;
+
+int main()
+{
+    cout << "wprowadź liczbę pierwszą ";
+    cin  >> a;
+    c=a;
+    cout << "wprodwadź drugą liczbę ";
+    cin >> b;
+    d=b;
+while (b !=0)
+{
+    reszta=a %b;
+    a=b;
+    b=reszta;
+}
+        cout << a <<"jest największym wspólnym dzielnikiem liczb "<<c<<" oraz "<<d <<endl;
+        cout << c*d/a <<"jest  Najmniejsza wspolna wielokrotnoscia liczb "<<c<<" oraz "<<d <<endl;
+        return 0;
+}
+
